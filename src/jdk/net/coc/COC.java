@@ -1,12 +1,15 @@
 package jdk.net.coc;
 
-public class COC
-{
+import javax.swing.*;
 
-	public static void main(String[] args)
-	{
-		// TODO Auto-generated method stub
+public class COC extends JFrame {
+	private static final long serialVersionUID = 1L;
+
+	public COC() {
 
 	}
 
+	public static void main( String[] args ) {
+
+	}
 }
